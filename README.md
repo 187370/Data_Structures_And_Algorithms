@@ -1,1 +1,2 @@
 # Data_Structures_And_Algorithms
+对于笔记中的Latex公式无法渲染的问题，实在抱歉，本人发现github仅支持单独成行的Latex公式渲染，不支持行内Latex公式渲染。
